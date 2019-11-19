@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		EF8FAD782383E35D002132EB /* NewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8FAD772383E35D002132EB /* NewClass.swift */; };
+		EF8FAD7A2383E3C4002132EB /* LastClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8FAD792383E3C4002132EB /* LastClass.swift */; };
+		EF8FAD7C2383E3DD002132EB /* LastClass.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF8FAD7B2383E3DD002132EB /* LastClass.xib */; };
 		EFFA70A522CF533E000E0316 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFA70A422CF533E000E0316 /* AppDelegate.swift */; };
 		EFFA70A722CF533E000E0316 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFA70A622CF533E000E0316 /* ViewController.swift */; };
 		EFFA70AA22CF533E000E0316 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFFA70A822CF533E000E0316 /* Main.storyboard */; };
@@ -17,6 +19,8 @@
 
 /* Begin PBXFileReference section */
 		EF8FAD772383E35D002132EB /* NewClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewClass.swift; sourceTree = "<group>"; };
+		EF8FAD792383E3C4002132EB /* LastClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastClass.swift; sourceTree = "<group>"; };
+		EF8FAD7B2383E3DD002132EB /* LastClass.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LastClass.xib; sourceTree = "<group>"; };
 		EFFA70A122CF533E000E0316 /* WeekDayFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeekDayFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFFA70A422CF533E000E0316 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFFA70A622CF533E000E0316 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				EFFA70A422CF533E000E0316 /* AppDelegate.swift */,
 				EFFA70A622CF533E000E0316 /* ViewController.swift */,
 				EF8FAD772383E35D002132EB /* NewClass.swift */,
+				EF8FAD792383E3C4002132EB /* LastClass.swift */,
+				EF8FAD7B2383E3DD002132EB /* LastClass.xib */,
 				EFFA70A822CF533E000E0316 /* Main.storyboard */,
 				EFFA70AB22CF5340000E0316 /* Assets.xcassets */,
 				EFFA70AD22CF5340000E0316 /* LaunchScreen.storyboard */,
@@ -125,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF8FAD7C2383E3DD002132EB /* LastClass.xib in Resources */,
 				EFFA70AF22CF5340000E0316 /* LaunchScreen.storyboard in Resources */,
 				EFFA70AC22CF5340000E0316 /* Assets.xcassets in Resources */,
 				EFFA70AA22CF533E000E0316 /* Main.storyboard in Resources */,
@@ -138,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF8FAD7A2383E3C4002132EB /* LastClass.swift in Sources */,
 				EF8FAD782383E35D002132EB /* NewClass.swift in Sources */,
 				EFFA70A722CF533E000E0316 /* ViewController.swift in Sources */,
 				EFFA70A522CF533E000E0316 /* AppDelegate.swift in Sources */,

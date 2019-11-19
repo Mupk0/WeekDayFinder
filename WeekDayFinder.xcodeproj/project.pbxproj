@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF8FAD782383E35D002132EB /* NewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8FAD772383E35D002132EB /* NewClass.swift */; };
 		EFFA70A522CF533E000E0316 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFA70A422CF533E000E0316 /* AppDelegate.swift */; };
 		EFFA70A722CF533E000E0316 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFA70A622CF533E000E0316 /* ViewController.swift */; };
 		EFFA70AA22CF533E000E0316 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFFA70A822CF533E000E0316 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EF8FAD772383E35D002132EB /* NewClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewClass.swift; sourceTree = "<group>"; };
 		EFFA70A122CF533E000E0316 /* WeekDayFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeekDayFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFFA70A422CF533E000E0316 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFFA70A622CF533E000E0316 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				EFFA70A422CF533E000E0316 /* AppDelegate.swift */,
 				EFFA70A622CF533E000E0316 /* ViewController.swift */,
+				EF8FAD772383E35D002132EB /* NewClass.swift */,
 				EFFA70A822CF533E000E0316 /* Main.storyboard */,
 				EFFA70AB22CF5340000E0316 /* Assets.xcassets */,
 				EFFA70AD22CF5340000E0316 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF8FAD782383E35D002132EB /* NewClass.swift in Sources */,
 				EFFA70A722CF533E000E0316 /* ViewController.swift in Sources */,
 				EFFA70A522CF533E000E0316 /* AppDelegate.swift in Sources */,
 			);

@@ -9,5 +9,8 @@
 import Foundation
 
 class LastClass {
-    
+    var someValue = 5
+    func someMove() {
+        print("Hello world")
+    }
 }
